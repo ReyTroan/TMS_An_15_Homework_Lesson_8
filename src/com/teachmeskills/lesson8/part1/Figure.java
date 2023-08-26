@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson8;
+package com.teachmeskills.lesson8.part1;
 
 /**
  * I wrote a hierarchy of "Figure" classes.

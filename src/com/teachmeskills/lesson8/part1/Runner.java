@@ -1,4 +1,5 @@
-package com.teachmeskills.lesson8;
+package com.teachmeskills.lesson8.part1;
+
 
 /**
  * I cycled through the array and for each figure from the array I displayed the area on the screen
