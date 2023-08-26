@@ -2,8 +2,8 @@ package com.teachmeskills.lesson8.part2;
 
 /**
  * Implementation of the method multiplication of two matrices;
- * The "Utils" class has been created with a static method
- *      that displays the result of multiplying two matrices on the screen
+ * A static class "Utils" has been created with a static method
+ *      for displaying the result multiplication of two matrices on the screen
  */
 
 public class Matrix {
@@ -36,7 +36,7 @@ public class Matrix {
         return result;
     }
 
-    class Utils{
+    static class Utils{
         public static void matrixOutput(int[][] matrix){
             for (int i = 0; i < matrix.length; i++){
                 for (int j = 0; j < matrix[i].length; j++){
